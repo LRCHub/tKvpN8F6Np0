@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "背後に注意",
+  "base_artist": "町田ちま",
+  "createdAt": "2026-02-28T07:48:30.790616Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "背後に注意",
+      "artist": "町田ちま",
+      "has_synced": false,
+      "path": "select/pl_01_背後に注意_町田ちま.txt"
+    }
+  ]
+}
